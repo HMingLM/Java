@@ -1,4 +1,4 @@
-# hmstudying
+# JavaStudying
 
 《双非本科生的Java学习路》
 
